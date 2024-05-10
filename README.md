@@ -49,9 +49,9 @@
 ## :medal_sports:Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AKushwahaji&show_icons=true&hide_border=true&theme=jolly" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AKushwahaji&hide_border=true&theme=jolly" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AKushwahaji&show_icons=true&hide_border=true&theme=dracula" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AKushwahaji&hide_border=true&theme=dracula" />
 </p>
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKushwahaji&layout=compact&theme=jolly&hide=jupyter%20notebook" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKushwahaji&layout=compact&theme=dracula&hide=jupyter%20notebook" />
 </p>
