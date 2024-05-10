@@ -1,8 +1,16 @@
 <p align="center"></p>
-<h1 align="center">Hello Everyone, I am Aniket Kushwaha 👋</h1>
-<h3 align="center">Web developer | Competitive Programmer | Final Year at NIT Trichy </h3>
+<h1 >Hello, I am Aniket 👋</h1>
 
-## Tech Stacks
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&lines=A+Full+Stack+Developer;Coding+Enthusiast)](https://git.io/typing-svg)
+
+ <!--<img src="https://giphy.com/clips/grooving-vibin-head-bop-Zkv81Dp5msItSOC631" width="5" height="50" align="right"> -->
+
+## About me!:tada:
+- 🔭 I’m currently a senior at NIT Trichy!.
+- 👯 Reach out to me for collaborating on any computer-science projects :sparkles:
+- 🧑‍⚖️ I'm a Treasurer at Maximus(Mathmatics club), NIT Trichy.
+
+## 	:ribbon:Languages and Tools:
 
 <p align>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -20,25 +28,25 @@
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Badge">
 </p>
 
-## Profiles
+## Profiles:
 <p align>
-<a href="https://www.codechef.com/users/name" target="_blank"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef Badge"></a>
-<a href="https://codeforces.com/profile/name" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces Badge"</a>
-<a href="https://leetcode.com/name/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badge"></a>
-<a href="https://www.hackerrank.com/name" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-brightgreen?style=for-the-badge&logo=HackerRank&logoColor=black" alt="Hackerrank Badge"></a>
+<a href="https://www.codechef.com/users/anike_12345" target="_blank"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef Badge"></a>
+<a href="https://codeforces.com/profile/aniket_kushwahaji_1" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces Badge"</a>
+<a href="https://leetcode.com/aniketkushwaha/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badge"></a>
+<a href="https://www.hackerrank.com/aniketkushwaha12" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-brightgreen?style=for-the-badge&logo=HackerRank&logoColor=black" alt="Hackerrank Badge"></a>
 </p>
 
-## Connect with me
+## 	:email:Find me on:
 
 <p align>
 <!-- <a href="mailto:aniket1f3@gmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Badge"></a> -->
-<a href="mailto:aniket1f3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
+<a href="mailto:aniketkushwaha13579@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/aniketkushwaha01/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <!-- <a href="https://www.facebook.com/profile.php?id=348u4884"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a> -->
 <!-- <a href="https://www.instagram.com/username/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a> -->
 </p>
 
-## Github Stats
+## :medal_sports:Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AKushwahaji&show_icons=true&hide_border=true&theme=jolly" />
