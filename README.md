@@ -5,7 +5,7 @@
 
  <!--<img src="https://giphy.com/clips/grooving-vibin-head-bop-Zkv81Dp5msItSOC631" width="5" height="50" align="right"> -->
 
-## About me!:tada:
+## About me:
 - 🔭 I’m currently a senior at NIT Trichy!.
 - 👯 Reach out to me for collaborating on any computer-science projects :sparkles:
 - 🧑‍⚖️ I'm a Treasurer at Maximus(Mathmatics club), NIT Trichy.
