@@ -1,8 +1,6 @@
 <p align="center"></p>
 <h1 >Hello, I am Aniket 👋</h1>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&lines=A+Full+Stack+Developer;Coding+Enthusiast)](https://git.io/typing-svg)
-
  <!--<img src="https://giphy.com/clips/grooving-vibin-head-bop-Zkv81Dp5msItSOC631" width="5" height="50" align="right"> -->
 
 ## About me:
